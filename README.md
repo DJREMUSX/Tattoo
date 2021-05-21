@@ -5,6 +5,6 @@
 - Drop the folder inside your resources folder.
 - Add `start vrp_tattoos` inside your server.cfg.
 
-## IMPORTANT
+## Important
 ---
 	vRP-Tatoos # only for vRP-Servers [on ESX dont work]
